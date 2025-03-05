@@ -31,11 +31,11 @@ Everything in this class is optional except the programming assignments and exam
 computer science  material,  and you can find it  online in  whatever format you
 like best.  Below are recommended textbooks:
 
+**Required textbook:**
 - **Data Structures and Other Objects Using C++** by Michael Main and Walter Savitch\
-  This used to be the standard textbook for other CS 24 courses.
+
+**Other reference textbooks**
 - **Problem Solving with C++** by Walter Savitch\
-  This is an optional textbook for other CS 24 courses.  It's also the
-  standard textbook for CS 32.
 - **Data Structures and Algorithm Analysis in C++** by Mark Allen Weiss\
   This is the standard textbook for CS 130A.
 
@@ -56,23 +56,24 @@ If you ask coding questions, please:
 - Include any code as a code snippet, not a screenshot or cell phone photo.
 - If you include more than a few lines of your code, make your question private.
 
-Link to join Ed: <https://edstem.org/us/join/9xm8nF>
+Link to join Ed available on Canvas
 
 ## Grading
 
 Your final score will be weighted as follows  
-* Programming assignments: 50% 
-* Midterm: 15% 
+* Programming assignments: 40% 
+* Midterm: 25% 
 * Final Exam: 35% 
 
 Please check the collaboration policy of each programming assignment - some must be completed individually while others may be completed in pairs using a pair programming style (more details below). 
 
-You have  six late days  to use over the course  of the quarter.  Any individual
+You have  five late days  to use over the course  of the quarter.  Any individual
 assignment  may be turned in  up to three days late.  As long as your
-total late time  does not exceed six days  there is no penalty,  but  using more
-than six days will drop your final score by 10% per extra day used.
+total late time  does not exceed five days  there is no penalty. No late submissions will be accepted beyond this timeframe.
 
-The cut-offs for letter grades will be at the discretion of the instructor, you can expect grades to follow the standard scale.
+The cut-offs for letter grades will be at the discretion of the instructor.
+A+ will be awarded to top 5% of the class. Other than that, there will be no +/-grades. Just A, B, C, D, F.
+
 
 ## About pair programming
 
