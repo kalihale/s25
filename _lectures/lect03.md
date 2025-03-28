@@ -4,8 +4,8 @@ lecture_date: 2025-04-08
 desc: "Week 2: Abstract Data Types and operator overloading"
 pre-reading: " 2.1 - 2.5, 3.1"
 ready: true
-pdfurl: /lectures/CS24_Lecture2.pdf
-annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
+pdfurl: /lectures/CS24LL.pdf
+annotatedpdfurl: /lectures/CS24LL_ann.pdf
 annotatedready: false
 ---
 # Code from lecture

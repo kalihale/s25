@@ -4,8 +4,8 @@ lecture_date: 2025-04-03
 desc: "Week 1: Running time analysis"
 ready: true
 pre-reading: "OP: 1.3, Dasgupta: 0.1 - 0.3"
-pdfurl: /lectures/CS24_Lecture6.pdf
-annotatedpdfurl: /lectures/CS24_Lecture6_ann.pdf
+pdfurl: /lectures/CS24_Lecture2.pdf
+annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
 annotatedready: false
 ---
 # Code from lecture
