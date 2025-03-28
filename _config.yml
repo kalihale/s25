@@ -18,8 +18,8 @@ lecture_times: "TR 12:30p - 1:45p"
 lecture_location: "BUCHN 1940"
 office_hours: "Thursdays 2p - 4p, HFH 1155"
 lab_times: "F: 2p, 3p, 4p, 5p, and 6p"
-tas: ""
-ulas: ""
+tas: "Ally	Chu, Brenna	Scholte, Daniel	Lopez, Kali	Hale, Sarah	Hyatt"
+ulas: "Cindy	Zhao, Nikhil	Kapasi, Olivia	Chen"
 class_org:
    name: ucsb-cs24-s25
    url: https://github.com/ucsb-cs24-s25
@@ -58,10 +58,17 @@ collections:
     output: true
     permalink: /lab/:path/
     last_before: false
+
   pa:
     output: true
     permalink: /pa/:path/
     last_before: false
+
+  lp:
+    output: true
+    permalink: /lp/:path/
+    last_before: false
+    
   exam:
     output: true
     permalink: /exam/:path/
@@ -94,6 +101,12 @@ defaults:
     scope:
       path: ""
       type: pa
+    values:
+      layout: lab
+  -
+    scope:
+      path: ""
+      type: lp
     values:
       layout: lab
   -

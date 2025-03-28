@@ -5,6 +5,7 @@
   <th class="asn_num"  >link</th>
   <!-- <th class="asn_ready">ready?</th> -->
   <th class="asn_desc" >description</th>
+  <th class="asn_desc" >Reading</th>
 </tr>
 
 {% for lect in site.lectures %}
@@ -14,6 +15,7 @@
   <td class="lect_num" ><a href="{{lect.url | relative_url }}" data-ajax="false">{{ lect.num }}</a></td>
   <!-- <td class="lect_ready">{{lect.ready}}</td> -->
   <td class="lect_desc" >{{lect.desc }}{% if lect.ready%}&nbsp;(<a href="{{lect.pdfurl|relative_url}}">slides</a>){% endif%}{% if lect.annotatedready %}&nbsp;(<a href="{{lect.annotatedpdfurl|relative_url}}">annotated slides</a>){% endif%}</td>
+  <td class="pre-reading"> {{lect.pre-reading}}</td>
 </tr>
 
 {% if lect.last_before %}

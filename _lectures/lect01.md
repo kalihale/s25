@@ -1,8 +1,9 @@
 ---
 num: "lect01"
 lecture_date: 2025-04-01
-desc: "Week 1: Course introduction, review of C16 concepts"
-ready: false
+desc: "Week 1: Course introduction, CS16 review"
+ready: true
+pre-reading: ""
 pdfurl: /lectures/CS24_Lecture1.pdf
 annotatedpdfurl: /lectures/CS24_Lecture1_ann.pdf
 annotatedready: false
