@@ -1,25 +1,14 @@
 ---
 layout: lab
-num: lab00
-ready: false
-desc: "Getting started"
-assigned: 2025-03-31 9:00:00.00-8
-due: 2025-04-11 23:59:00.00-8
+num: lab00 
+ready: true
+desc: "Getting started with Github (optional lab)"
 ---
-
 
 # Introduction
 
-Your first lab for this week is an introduction to programming on CSIL and tools for this course. The intended outcomes are:
+This is an optional lab that does not carry any credit. We recommend that you complete it only if you don't have a github account. The lab is an introduction to programming on CSIL and tools for this course. The intended outcomes is to learn about the tools you will be using in this class: gradescope, working with an IDE of your choice, and github
 
-* Get to know the course staff and help us get to know you
-* Learn about the tools you will be using in this class: gradescope and github
-
-
-This lab will count towards 1% of your total lab grade. All other labs are weighed equally.
-
-This lab must be completed INDIVIDUALLY. 
- 
 
 # Get setup with the tools for this course
 
@@ -43,21 +32,19 @@ If you still don't have an account, use the links below to either request one or
 
 We will be using github.com in this course.   We have created an organization called {{site.class_org.name}} on github.com where you can create repositories (repos) for your assignments in this course.   The advantage of creating private repos under that organization is that the course staff (your instructors, TAs and mentors) will be able to see your code and provide you with help, without you having to do anything special.
 
-To join this organization, you need to do three things.
+To join the {{site.class_org.name}} organization, you need to do the following
 
 1. If you don't already have a github.com account, create one on the "free" plan. Visit [www.github.com](https://github.com/)
 
 2. If you don't already have your @umail.ucsb.edu email address associated with your github.com account. go to "settings", add that email, and confirm that email address.
 
-3. Visit our [Github Sign Up Tool: https://ucsb-cs-github-linker.herokuapp.com/](https://ucsb-cs-github-linker.herokuapp.com/), login with your github.com account, click "Home", find the {{site.class_org.githublinker}} course, and click the "join course button".   That will automatically send you an invitation to join the course organization on github. 
-
-4. Accept the invitation that appears in your browser (from step 3) or log into your account on [www.github.com](https://github.com/) to accept the invitation.
+3. Accept the invitation that was sent to your @umail.ucsb.edu email or log into your account on [www.github.com](https://github.com/) to accept the invitation.
 
 ## Get setup with gradescope
 
 We will use gradescope to grade all your homeworks, exams and lab/programming assignments. You should have received an email notification with instructions about logging into gradescope.
 
-Log into our class site on [www.gradescope.com](https://www.gradescope.com/): {{site.name}}    and navigate to the lab00 assignment
+Log into our class site on [www.gradescope.com](https://www.gradescope.com/): {{site.name}}  and navigate to the lab00 assignment
 
 # Implement and submit a simple C++ program 
 
@@ -240,13 +227,13 @@ You will be given the option of directly uploading files from your local machine
 
 ![submit](enter-org/gradescope-submission.png){:height="500px"}
 
-You should receive 50 points on this part of the assignment.
+Note that this assignmnent does not count toward your final grade. So, the points don't count
 
 Congratulations on completing the workflow for CS24 programming assignments using the tools that we will be using in this class i.e. gradescope and github. 
 
-# Find a partner for lab01
+# Find a partner for lab02 (lab01 must be done solo)
 
-Please read the information below. Then, use the dedicated Piazza thread called **Search for Teammates** to find a partner for the next lab. Refrain from creating new threads to avoid clutter on Piazza. You can also try to find a partner by connecting with students in your section on Thursday.
+Please read the information below. Then, use the dedicated Ed thread called **Search for Teammates** to find a partner for the next lab. Refrain from creating new threads to avoid clutter on Ed. You can also try to find a partner by connecting with students in your section on Thursday.
 
 ## About pair programming in the real world
 

@@ -20,7 +20,7 @@ This lab is an **individual assignment**. You must:
 - Cite any external resources (e.g., libraries, tutorials) used for these auxiliary tasks in your report.  
 
 ## Part 1: Getting Started with LeetCode  
-To build algorithmic problem-solving skills, 5% of your final grade will come from completing a curated set of LeetCode problems over the next 9 weeks. These problems align with course topics and will help prepare you for exams, where some questions will be drawn from this set.  
+To build algorithmic problem-solving skills, 10% of your final grade will come from completing a curated set of LeetCode problems over the next 9 weeks. These problems align with course topics and will help prepare you for exams, where some questions will be drawn from this set. If you haven't used github before, we recommend completing the optional (lab00) first before starting this assignment.
 
 ### Steps to Set Up:  
 1. **Create an Account**:  
