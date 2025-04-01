@@ -16,7 +16,7 @@ This document and linked resources are your **primary source** for understanding
 - **ULAs**: {{ site.ulas }}
 - **Lab**: 50-minute closed sections, Phelps 3525, {{ site.lab_times }}
 
-Lab attendance is optional but highly recommended, as TAs and LAs are available to assist. You may informally switch sections if you have a conflict or attend any section that suits you and a pair partner—no need to notify the instructor. Start lab/programming assignments during sections and use office hours for additional support.
+Lab attendance is optional but **highly recommended**, as TAs and LAs are available to assist and you must complete at least one mock interview with a TA or LA during these sessions. We may also use some of the office hour time for this. You may not switch sections because the class is full. If you have a conflict contact the instructor at the end of the first lecture. Start lab/programming assignments during sections and use office hours for additional support.
 
 **Contacting Staff**: Use Ed for course-related communication, including private messages to staff or the instructor. For urgent emails, use diba@ucsb.edu with “CS24” in the subject line; expect a possible delay in response.
 
