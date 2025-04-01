@@ -64,22 +64,22 @@ Use Ed for Q&A (link on Canvas). Post public questions when applicable; for codi
 - Make posts private if including significant code.
 
 ## Grading
-- **LeetCode Credit**: 10%
+- **LeetCode + Mock Interview**: 10%
 - **Programming Assignments**: 30% (labs + larger projects)
 - **Midterm**: 25%
 - **Final Exam**: 35%
 
 A **minimum 65% on the final exam** is required to pass, ensuring core concept mastery. Below 65%, your grade is capped at D unless special circumstances apply (contact instructor). Letter grades (A, B, C, D, F) are set at the instructor’s discretion; A+ goes to the top 5% (no other +/- grades).
 
-### LeetCode Credit (10%)
+### LeetCode + Mock Interview(10%)
 Complete 10 medium LeetCode problems from the assigned list (on the course website) to build algorithmic skills aligned with course topics and exams.
 - **Setup**: Create a LeetCode account (format: `DS_[YourInitials]_[RandomNumber]`, e.g., `DS_JD_1234`).
-- **Submission**: By Monday, Week 2, 11:59 PM, submit a Google Form (link on Canvas) with your name, ID, and profile link.
-- **Task**: Solve 10 problems, with at least one from each of the problem sets provided, by Friday, Week 9, 11:59 PM.
-- **Grading**: Grade = (Accepted solutions / 10) * 10%, with at least 10 attempts required for credit (e.g., 8/10 = 8%; <10 attempted = 0%).
+- **Submission**: By Monday, Week 2, 11:59 PM, submit a Google Form (link on lab01) with your name, ID, and profile link.
+- **Task**: Solve 10 problems, with at least one from each of the problem sets provided, by Friday, Week 9, 11:59 PM and complete one mock interview with TAs/LAs by the last office hour on Friday, Week 10.
+- **Grading**: Grade = (Accepted solutions / 10) * 10%, with at least 10 attempts (by the end of week 9) and completion of mock interview required for credit (e.g., 8/10 = 8%; < 10 attempted OR mock interview not completed = 0%).
 - **Monitoring**: Progress may be checked (e.g., Week 5), but only the final count matters.
 
-Start early—late setups require TA coordination by Week 2.
+Schedule your mock interview early (signup form will be made available by week 2)
 
 ## Late Policy
 You have **five late days** total, with a **maximum of three days** per assignment, no penalty within this limit. Beyond this, a 10% deduction applies per day (up to one week), after which no credit is given unless approved for extenuating circumstances.
@@ -99,7 +99,7 @@ AI tools (e.g., ChatGPT, GitHub Copilot, Grok) can support learning but must not
   - Get code feedback (e.g., “Improve my queue implementation”)
   - Explore design trade-offs (e.g., “Hash table vs. array pros/cons”)
 - **Prohibited Use**: Generating full solutions, large code segments, or completing assignments (e.g., “Write a BST in C++”) is academic dishonesty, even when permitted. Debugging help is okay; rewriting your work is not.
-- **Documentation**: Submit a log (e.g., text file or screenshots) of AI interactions for permitted assignments, showing constructive use and your own work. Earn up to a 5% assignment bonus for thoughtful engagement (instructor’s discretion).
+- **Documentation**: Submit a log (e.g., text file or screenshots) of AI interactions for permitted assignments, showing constructive use and your own work. Earn up to a 5% assignment bonus on assignments where AI tools are permitted for thoughtful engagement (instructor’s discretion).
 - **Tool Choice**: Any AI tool is allowed; identify it in your log.
 - **Consequences**: Unauthorized use, missing logs, or misuse equals academic dishonesty (see below).
 
