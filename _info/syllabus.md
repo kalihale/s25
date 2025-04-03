@@ -49,7 +49,7 @@ All activities except programming assignments and exams are optional. Lectures a
 - **Textbooks**:
   - *Data Structures and Other Objects Using C++* by Michael Main and Walter Savitch (Reading assigned from this book, also the standard textbook for CS32)
   - [OP] *Open Data Structures C++ Edition * by Pat Morin (free at <https://opendatastructures.org/>)
-  - [Dasgupta] *Algorithms* by Dasgupta and Vazirani
+  - [Dasgupta] *Algorithms* by Dasgupta and Vazirani <https://cseweb.ucsd.edu/~dasgupta/book/toc.pdf>
   - *Problem Solving with C++* by Walter Savitch (CS16 standard textbook)
   - *Data Structures and Algorithm Analysis in C++* by Mark Allen Weiss (CS 130A standard)
 - **Visualization**: <https://visualgo.net/>
