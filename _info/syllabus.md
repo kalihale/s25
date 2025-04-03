@@ -47,7 +47,7 @@ Review CS16 materials or consult TAs if needed as soon as possible.
 All activities except programming assignments and exams are optional. Lectures are recommended, with slides and code on GitHub. Reading is primarily assigned from Main & Savitch. 
 
 - **Textbooks**:
-  - [DS]: *Data Structures and Other Objects Using C++ * by Michael Main and Walter Savitch (Reading assigned from this book, also the standard textbook for CS32)
+  - [DS]: *Data Structures and Other Objects Using C++* by Michael Main and Walter Savitch (Reading assigned from this book, also the standard textbook for CS32)
   - [OP] *Open Data Structures C++ Edition * by Pat Morin (free at <https://opendatastructures.org/>)
   - [Dasgupta] *Algorithms* by Dasgupta and Vazirani
   - *Problem Solving with C++* by Walter Savitch (CS16 standard textbook)
