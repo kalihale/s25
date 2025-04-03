@@ -6,7 +6,7 @@ ready: true
 pre-reading: ""
 pdfurl: /lectures/CS24_Lecture1.pdf
 annotatedpdfurl: /lectures/CS24_Lecture1_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 
 ## Code written in class
