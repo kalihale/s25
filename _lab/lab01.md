@@ -1,7 +1,7 @@
 ---
 layout: lab  
 num: lab01  
-ready: false  
+ready: true  
 desc: "LeetCode 3-Sum + Empirical Runtime Analysis"  
 assigned: 2025-03-31 09:00:00.00-08:00  
 due: 2025-04-11 23:59:00.00-08:00  
@@ -31,7 +31,7 @@ To build algorithmic problem-solving skills, 10% of your final grade will come f
      - Your full name  
      - Student ID  
      - Direct link to your LeetCode profile (e.g., <https://leetcode.com/DS_JD_1234/>)  
-   - Google Form link: [TBD]  
+   - Google Form link: <https://forms.gle/vWx73VW5H2rdRQav9>  
 3. **Start Early**:  
    - Set up your account in Week 1 and begin practicing. Late setups must be coordinated with your TA by Monday of Week 2.  
 
@@ -87,10 +87,11 @@ Analyze how your brute-force 3-Sum solution’s runtime scales with input size.
    - Overlay your empirical model (predicted runtime) on both plots.  
 
 5. **Analyze Results**:  
-   - In your report, discuss:  
-     - Shape differences between linear and log-log plots.  
-     - How well your model matches the measured data.  
-     - Any deviations (e.g., due to cache effects, system noise).  
+   - In your report:  
+     - Do a Big-O analysis of your code and discuss how it relates to your emprical analysis
+     - Discuss differences between linear and log-log plots.  
+     - Your main takeaways and observations  
+       
 6. **Optional Challenge (10 Bonus Points)**:
    - Implement an optimized 3-Sum solution (e.g., using sorting and two pointers) with a lower time complexity than your brute-force approach. Measure T(n) for the same input sizes, derive a new empirical model, and compare it to your brute-force results in your report.
 
