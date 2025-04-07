@@ -6,7 +6,7 @@ ready: true
 pre-reading: "OP: 1.3, Dasgupta: 0.1 - 0.3"
 pdfurl: /lectures/CS24_Lecture2.pdf
 annotatedpdfurl: /lectures/CS24_Lecture2_ann.pdf
-annotatedready: false
+annotatedready: true
 ---
 # Code from lecture
 [{{site.lect_repo}}/tree/main/{{page.num}}]({{site.lect_repo}}/tree/main/{{page.num}})
