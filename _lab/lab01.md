@@ -96,16 +96,14 @@ Analyze how your brute-force 3-Sum solution’s runtime scales with input size.
    - Implement an optimized 3-Sum solution (e.g., using sorting and two pointers) with a lower time complexity than your brute-force approach. Measure T(n) for the same input sizes, derive a new empirical model, and compare it to your brute-force results in your report.
 
 ## Submission on Gradescope  
-Submit **two files**:  
-1. **`report.pdf`**: Include:  
+Submit **one file**:  
+1. **`report.pdf`**: Include:
+   - Include a link to your github repo containing the brute-force 3-Sum solution (and the optional, extra credit, optimized 3-Sum solution)
    - Linear plot (runtime vs. `n`) with model overlay  
    - Log-log plot (`log2(runtime)` vs. `log2(n)`) with model overlay  
    - Derivation of your empirical model (show calculations)  
-   - Observations (1-2 paragraphs)  
+   - Observations (1-2 paragraphs)
    - (If attempted) Optional challenge: Optimized solution description, new plots/models, and comparison to brute-force results
-2. **`3sum_analysis.cpp`**: Include:  
-   - Your brute-force 3-Sum solution  
-   - Code for generating inputs and collecting timing data  
 
 **Note**: Plotting code is optional to submit; focus on the C++ logic and report quality.  
 
